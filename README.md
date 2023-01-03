@@ -26,6 +26,7 @@ rank=np.linalg.solve(A,b)
 print(rank)
 ```
 ## Output:
-![output](linear.png)
+![MA exp1](https://user-images.githubusercontent.com/98278161/210365342-49d59f30-08ac-402b-b4bd-cceef0fb90c0.png)
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program.
